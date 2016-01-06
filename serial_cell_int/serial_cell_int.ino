@@ -1,5 +1,6 @@
 /*
- Example using the SparkFun HX711 breakout board with a scale
+ Reprap Z-probe code for load cell / hx-711 / Arduino Nano.
+ 
  Modified from the SparkFun Electronics examples and modified Bodge HX711 libraries
  Date: Dec 2015 RP
 
